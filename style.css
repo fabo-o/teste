@@ -1,0 +1,1018 @@
+* {
+   margin: 0;
+   text-align: center;
+   padding: 0.5em;
+   box-sizing: border-box;
+   background-color: yellow;
+   font-family: sans-serif;
+}
+div {
+   background-image: url(https://www.papeldeparede.etc.br/fotos/wp-content/uploads/brasil--cbf_6671_1024x768.jpg);
+   background-repeat: no-repeat;
+   background-position: left center;
+   background-size: cover;
+   background-origin: border-box;
+   background-attachment: fixed;
+   background-color: transparent;
+   box-sizing: border-box;
+   margin: 0;
+   flex-grow: 1;
+}
+.tabela {
+   width: 70%;
+   margin: 0 auto;
+   padding: 0 1rem;
+   position: relative;
+   background-color: transparent;
+}
+.legenda {
+   width: 50%;
+   margin: auto;
+   position: relative;
+   background-color: transparent;
+}
+#títulotabela {
+    width: auto;
+    height: auto;
+    margin: 50px 0 20px;
+    background-color: yellowgreen;
+    font-weight: bolder;
+    font-size: 29px;
+    background-image: url(https://i.pinimg.com/564x/62/df/c9/62dfc9538abcaec97c1b8c6e7e764bf5.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+    background-origin: border-box;
+    background-attachment: scroll;
+}
+#Clube {
+    width: 100%;
+    background-color: lightgray;
+    outline: 2px solid lightgray;
+}
+#Posição {
+   background-color: lightgray;
+   outline: 2px solid lightgray;
+}
+#PG {
+    outline: 2px solid lightgray;
+ }
+ #J {
+    outline: 2px solid lightgray;
+ }
+ #V {
+    outline: 2px solid lightgray;
+ }
+ #E {
+    outline: 2px solid lightgray;
+ }
+ #D {
+    outline: 2px solid lightgray;
+ }
+ #GP {
+    outline: 2px solid lightgray;
+ }
+ #GC {
+    outline: 2px solid lightgray;
+ }
+ #SG {
+    outline: 2px solid lightgray;
+ }
+ #CA {
+    outline: 2px solid lightgray;
+ }
+ #CV {
+    outline: 2px solid lightgray;
+ }
+ #aprov {
+    outline: 2px solid lightgray;
+ }
+ #Uj {
+    outline: 2px solid lightgray;
+ }
+ #Clube1 {
+    width: 30%;
+    outline: 2px solid goldenrod;
+}
+#Posição1 {
+    outline: 2px solid goldenrod;
+ }
+#PG1 {
+    outline: 2px solid goldenrod;
+ }
+ #J1 {
+    outline: 2px solid goldenrod;
+ }
+ #V1 {
+    outline: 2px solid goldenrod;
+ }
+ #E1 {
+    outline: 2px solid goldenrod;
+ }
+ #D1 {
+    outline: 2px solid goldenrod;
+ }
+ #GP1 {
+    outline: 2px solid goldenrod;
+ }
+ #GC1 {
+    outline: 2px solid goldenrod;
+ }
+ #SG1 {
+    outline: 2px solid goldenrod;
+ }
+ #CA1 {
+    outline: 2px solid goldenrod;
+ }
+ #CV1 {
+    outline: 2px solid goldenrod;
+ }
+ #aprov1 {
+    outline: 2px solid goldenrod;
+ }
+ #Uj1 {
+    outline: 2px solid goldenrod;
+ }
+ #Clube2 {
+    width: 30%;
+    outline: 2px solid blue;
+}
+#Posição2 {
+   outline: 2px solid blue;
+}
+#PG2 {
+    outline: 2px solid blue;
+ }
+ #J2 {
+    outline: 2px solid blue;
+ }
+ #V2 {
+    outline: 2px solid blue;
+ }
+ #E2 {
+    outline: 2px solid blue;
+ }
+ #D2 {
+    outline: 2px solid blue;
+ }
+ #GP2 {
+    outline: 2px solid blue;
+ }
+ #GC2 {
+    outline: 2px solid blue;
+ }
+ #SG2 {
+    outline: 2px solid blue;
+ }
+ #CA2 {
+    outline: 2px solid blue;
+ }
+ #CV2 {
+    outline: 2px solid blue;
+ }
+ #aprov2 {
+    outline: 2px solid blue;
+ }
+ #Uj2 {
+    outline: 2px solid blue;
+ }
+ #Clube3 {
+    width: 30%;
+    outline: 2px solid blue;
+}
+#Posição3 {
+   outline: 2px solid blue;
+}
+#PG3 {
+    outline: 2px solid blue;
+ }
+ #J3 {
+    outline: 2px solid blue;
+ }
+ #V3 {
+    outline: 2px solid blue;
+ }
+ #E3 {
+    outline: 2px solid blue;
+ }
+ #D3 {
+    outline: 2px solid blue;
+ }
+ #GP3 {
+    outline: 2px solid blue;
+ }
+ #GC3 {
+    outline: 2px solid blue;
+ }
+ #SG3 {
+    outline: 2px solid blue;
+ }
+ #CA3 {
+    outline: 2px solid blue;
+ }
+ #CV3 {
+    outline: 2px solid blue;
+ }
+ #aprov3 {
+    outline: 2px solid blue;
+ }
+ #Uj3 {
+    outline: 2px solid blue;
+ }
+ #Clube4 {
+    width: 30%;
+    outline: 2px solid blue;
+}
+#Posição4 {
+   outline: 2px solid blue;
+}
+#PG4 {
+    outline: 2px solid blue;
+ }
+ #J4 {
+    outline: 2px solid blue;
+ }
+ #V4 {
+    outline: 2px solid blue;
+ }
+ #E4 {
+    outline: 2px solid blue;
+ }
+ #D4 {
+    outline: 2px solid blue;
+ }
+ #GP4 {
+    outline: 2px solid blue;
+ }
+ #GC4 {
+    outline: 2px solid blue;
+ }
+ #SG4 {
+    outline: 2px solid blue;
+ }
+ #CA4 {
+    outline: 2px solid blue;
+ }
+ #CV4 {
+    outline: 2px solid blue;
+ }
+ #aprov4 {
+    outline: 2px solid blue;
+ }
+ #Uj4 {
+    outline: 2px solid blue;
+ }
+ #Clube5 {
+    width: 30%;
+    outline: 2px solid blue;
+}
+#Posição5 {
+   outline: 2px solid blue;
+}
+#PG5 {
+    outline: 2px solid blue;
+ }
+ #J5 {
+    outline: 2px solid blue;
+ }
+ #V5 {
+    outline: 2px solid blue;
+ }
+ #E5 {
+    outline: 2px solid blue;
+ }
+ #D5 {
+    outline: 2px solid blue;
+ }
+ #GP5 {
+    outline: 2px solid blue;
+ }
+ #GC5 {
+    outline: 2px solid blue;
+ }
+ #SG5 {
+    outline: 2px solid blue;
+ }
+ #CA5 {
+    outline: 2px solid blue;
+ }
+ #CV5 {
+    outline: 2px solid blue;
+ }
+ #aprov5 {
+    outline: 2px solid blue;
+ }
+ #Uj5 {
+    outline: 2px solid blue;
+ }
+ #Clube6 {
+   width: 30%;
+   outline: 2px solid blue;
+}
+#Posição6 {
+  outline: 2px solid blue;
+}
+#PG6 {
+   outline: 2px solid blue;
+}
+#J6 {
+   outline: 2px solid blue;
+}
+#V6 {
+   outline: 2px solid blue;
+}
+#E6 {
+   outline: 2px solid blue;
+}
+#D6 {
+   outline: 2px solid blue;
+}
+#GP6 {
+   outline: 2px solid blue;
+}
+#GC6 {
+   outline: 2px solid blue;
+}
+#SG6 {
+   outline: 2px solid blue;
+}
+#CA6 {
+   outline: 2px solid blue;
+}
+#CV6 {
+   outline: 2px solid blue;
+}
+#aprov6 {
+   outline: 2px solid blue;
+}
+#Uj6 {
+   outline: 2px solid blue;
+}
+#Clube7 {
+   width: 30%;
+   outline: 2px solid aqua;
+}
+#Posição7 {
+  outline: 2px solid aqua;
+}
+#PG7 {
+   outline: 2px solid aqua;
+}
+#J7 {
+   outline: 2px solid aqua;
+}
+#V7 {
+   outline: 2px solid aqua;
+}
+#E7 {
+   outline: 2px solid aqua;
+}
+#D7 {
+   outline: 2px solid aqua;
+}
+#GP7 {
+   outline: 2px solid aqua;
+}
+#GC7 {
+   outline: 2px solid aqua;
+}
+#SG7 {
+   outline: 2px solid aqua;
+}
+#CA7 {
+   outline: 2px solid aqua;
+}
+#CV7 {
+   outline: 2px solid aqua;
+}
+#aprov7 {
+   outline: 2px solid aqua;
+}
+#Uj7 {
+   outline: 2px solid aqua;
+}
+#Clube8 {
+   width: 30%;
+   outline: 2px solid aqua;
+}
+#Posição8 {
+  outline: 2px solid aqua;
+}
+#PG8 {
+   outline: 2px solid aqua;
+}
+#J8 {
+   outline: 2px solid aqua;
+}
+#V8 {
+   outline: 2px solid aqua;
+}
+#E8 {
+   outline: 2px solid aqua;
+}
+#D8 {
+   outline: 2px solid aqua;
+}
+#GP8 {
+   outline: 2px solid aqua;
+}
+#GC8 {
+   outline: 2px solid aqua;
+}
+#SG8 {
+   outline: 2px solid aqua;
+}
+#CA8 {
+   outline: 2px solid aqua;
+}
+#CV8 {
+   outline: 2px solid aqua;
+}
+#aprov8 {
+   outline: 2px solid aqua;
+}
+#Uj8 {
+   outline: 2px solid aqua;
+}
+#Clube9 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição9 {
+  outline: 2px solid green;
+}
+#PG9 {
+   outline: 2px solid green;
+}
+#J9 {
+   outline: 2px solid green;
+}
+#V9 {
+   outline: 2px solid green;
+}
+#E9 {
+   outline: 2px solid green;
+}
+#D9 {
+   outline: 2px solid green;
+}
+#GP9 {
+   outline: 2px solid green;
+}
+#GC9 {
+   outline: 2px solid green;
+}
+#SG9 {
+   outline: 2px solid green;
+}
+#CA9 {
+   outline: 2px solid green;
+}
+#CV9 {
+   outline: 2px solid green;
+}
+#aprov9 {
+   outline: 2px solid green;
+}
+#Uj9 {
+   outline: 2px solid green;
+}
+#Clube10 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição10 {
+  outline: 2px solid green;
+}
+#PG10 {
+   outline: 2px solid green;
+}
+#J10 {
+   outline: 2px solid green;
+}
+#V10 {
+   outline: 2px solid green;
+}
+#E10 {
+   outline: 2px solid green;
+}
+#D10 {
+   outline: 2px solid green;
+}
+#GP10 {
+   outline: 2px solid green;
+}
+#GC10 {
+   outline: 2px solid green;
+}
+#SG10 {
+   outline: 2px solid green;
+}
+#CA10 {
+   outline: 2px solid green;
+}
+#CV10 {
+   outline: 2px solid green;
+}
+#aprov10 {
+   outline: 2px solid green;
+}
+#Uj10 {
+   outline: 2px solid green;
+}
+#Clube11 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição11 {
+  outline: 2px solid green;
+}
+#PG11 {
+   outline: 2px solid green;
+}
+#J11 {
+   outline: 2px solid green;
+}
+#V11 {
+   outline: 2px solid green;
+}
+#E11 {
+   outline: 2px solid green;
+}
+#D11 {
+   outline: 2px solid green;
+}
+#GP11 {
+   outline: 2px solid green;
+}
+#GC11 {
+   outline: 2px solid green;
+}
+#SG11 {
+   outline: 2px solid green;
+}
+#CA11 {
+   outline: 2px solid green;
+}
+#CV11 {
+   outline: 2px solid green;
+}
+#aprov11 {
+   outline: 2px solid green;
+}
+#Uj11 {
+   outline: 2px solid green;
+}
+#Clube12 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição12 {
+  outline: 2px solid green;
+}
+#PG12 {
+   outline: 2px solid green;
+}
+#J12 {
+   outline: 2px solid green;
+}
+#V12 {
+   outline: 2px solid green;
+}
+#E12 {
+   outline: 2px solid green;
+}
+#D12 {
+   outline: 2px solid green;
+}
+#GP12 {
+   outline: 2px solid green;
+}
+#GC12 {
+   outline: 2px solid green;
+}
+#SG12 {
+   outline: 2px solid green;
+}
+#CA12 {
+   outline: 2px solid green;
+}
+#CV12 {
+   outline: 2px solid green;
+}
+#aprov12 {
+   outline: 2px solid green;
+}
+#Uj12 {
+   outline: 2px solid green;
+}
+#Clube13 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição13 {
+  outline: 2px solid green;
+}
+#PG13 {
+   outline: 2px solid green;
+}
+#J13 {
+   outline: 2px solid green;
+}
+#V13 {
+   outline: 2px solid green;
+}
+#E13 {
+   outline: 2px solid green;
+}
+#D13 {
+   outline: 2px solid green;
+}
+#GP13 {
+   outline: 2px solid green;
+}
+#GC13 {
+   outline: 2px solid green;
+}
+#SG13 {
+   outline: 2px solid green;
+}
+#CA13 {
+   outline: 2px solid green;
+}
+#CV13 {
+   outline: 2px solid green;
+}
+#aprov13 {
+   outline: 2px solid green;
+}
+#Uj13 {
+   outline: 2px solid green;
+}
+#Clube14 {
+   width: 30%;
+   outline: 2px solid green;
+}
+#Posição14 {
+  outline: 2px solid green;
+}
+#PG14 {
+   outline: 2px solid green;
+}
+#J14 {
+   outline: 2px solid green;
+}
+#V14 {
+   outline: 2px solid green;
+}
+#E14 {
+   outline: 2px solid green;
+}
+#D14 {
+   outline: 2px solid green;
+}
+#GP14 {
+   outline: 2px solid green;
+}
+#GC14 {
+   outline: 2px solid green;
+}
+#SG14 {
+   outline: 2px solid green;
+}
+#CA14 {
+   outline: 2px solid green;
+}
+#CV14 {
+   outline: 2px solid green;
+}
+#aprov14 {
+   outline: 2px solid green;
+}
+#Uj14 {
+   outline: 2px solid green;
+}
+#Clube15 {
+   width: 30%;
+   outline: 2px solid white;
+}
+#Posição15 {
+  outline: 2px solid white;
+}
+#PG15 {
+   outline: 2px solid white;
+}
+#J15 {
+   outline: 2px solid white;
+}
+#V15 {
+   outline: 2px solid white;
+}
+#E15 {
+   outline: 2px solid white;
+}
+#D15 {
+   outline: 2px solid white;
+}
+#GP15 {
+   outline: 2px solid white;
+}
+#GC15 {
+   outline: 2px solid white;
+}
+#SG15 {
+   outline: 2px solid white;
+}
+#CA15 {
+   outline: 2px solid white;
+}
+#CV15 {
+   outline: 2px solid white;
+}
+#aprov15 {
+   outline: 2px solid white;
+}
+#Uj15 {
+   outline: 2px solid white;
+}
+#Clube16 {
+   width: 30%;
+   outline: 2px solid white;
+}
+#Posição16 {
+  outline: 2px solid white;
+}
+#PG16 {
+   outline: 2px solid white;
+}
+#J16 {
+   outline: 2px solid white;
+}
+#V16 {
+   outline: 2px solid white;
+}
+#E16 {
+   outline: 2px solid white;
+}
+#D16 {
+   outline: 2px solid white;
+}
+#GP16 {
+   outline: 2px solid white;
+}
+#GC16 {
+   outline: 2px solid white;
+}
+#SG16 {
+   outline: 2px solid white;
+}
+#CA16 {
+   outline: 2px solid white;
+}
+#CV16 {
+   outline: 2px solid white;
+}
+#aprov16 {
+   outline: 2px solid white;
+}
+#Uj16 {
+   outline: 2px solid white;
+}
+#Clube17 {
+   width: 30%;
+   outline: 2px solid red;
+}
+#Posição17 {
+  outline: 2px solid red;
+}
+#PG17 {
+   outline: 2px solid red;
+}
+#J17 {
+   outline: 2px solid red;
+}
+#V17 {
+   outline: 2px solid red;
+}
+#E17 {
+   outline: 2px solid red;
+}
+#D17 {
+   outline: 2px solid red;
+}
+#GP17 {
+   outline: 2px solid red;
+}
+#GC17 {
+   outline: 2px solid red;
+}
+#SG17 {
+   outline: 2px solid red;
+}
+#CA17 {
+   outline: 2px solid red;
+}
+#CV17 {
+   outline: 2px solid red;
+}
+#aprov17 {
+   outline: 2px solid red;
+}
+#Uj17 {
+   outline: 2px solid red;
+}
+#Clube18 {
+   width: 30%;
+   outline: 2px solid red;
+}
+#Posição18 {
+  outline: 2px solid red;
+}
+#PG18 {
+   outline: 2px solid red;
+}
+#J18 {
+   outline: 2px solid red;
+}
+#V18 {
+   outline: 2px solid red;
+}
+#E18 {
+   outline: 2px solid red;
+}
+#D18 {
+   outline: 2px solid red;
+}
+#GP18 {
+   outline: 2px solid red;
+}
+#GC18 {
+   outline: 2px solid red;
+}
+#SG18 {
+   outline: 2px solid red;
+}
+#CA18 {
+   outline: 2px solid red;
+}
+#CV18 {
+   outline: 2px solid red;
+}
+#aprov18 {
+   outline: 2px solid red;
+}
+#Uj18 {
+   outline: 2px solid red;
+}
+#Clube19 {
+   width: 30%;
+   outline: 2px solid red;
+}
+#Posição19 {
+  outline: 2px solid red;
+}
+#PG19 {
+   outline: 2px solid red;
+}
+#J19 {
+   outline: 2px solid red;
+}
+#V19 {
+   outline: 2px solid red;
+}
+#E19 {
+   outline: 2px solid red;
+}
+#D19 {
+   outline: 2px solid red;
+}
+#GP19 {
+   outline: 2px solid red;
+}
+#GC19 {
+   outline: 2px solid red;
+}
+#SG19 {
+   outline: 2px solid red;
+}
+#CA19 {
+   outline: 2px solid red;
+}
+#CV19 {
+   outline: 2px solid red;
+}
+#aprov19 {
+   outline: 2px solid red;
+}
+#Uj19 {
+   outline: 2px solid red;
+}
+#Clube20 {
+   width: 30%;
+   outline: 2px solid red;
+}
+#Posição20 {
+  outline: 2px solid red;
+}
+#PG20 {
+   outline: 2px solid red;
+}
+#J20 {
+   outline: 2px solid red;
+}
+#V20 {
+   outline: 2px solid red;
+}
+#E20 {
+   outline: 2px solid red;
+}
+#D20 {
+   outline: 2px solid red;
+}
+#GP20 {
+   outline: 2px solid red;
+}
+#GC20 {
+   outline: 2px solid red;
+}
+#SG20 {
+   outline: 2px solid red;
+}
+#CA20 {
+   outline: 2px solid red;
+}
+#CV20 {
+   outline: 2px solid red;
+}
+#aprov20 {
+   outline: 2px solid red;
+}
+#Uj20 {
+   outline: 2px solid red;
+}
+.legenda {
+   border: 1px solid rgb(0, 0, 0);
+   background-color: transparent;
+}
+#títulolegenda {
+   border: none;
+   background-color: white;
+}
+#legenda1 {
+   color: goldenrod;
+   background-color: transparent;
+}
+#legenda2 {
+   color: blue;
+   background-color: transparent;
+}
+#legenda3 {
+   color: aqua;
+   background-color: transparent;
+}
+#legenda4 {
+   color: green;
+   background-color: transparent;
+}
+#legenda5 {
+   color: white;
+   background-color: transparent;
+}
+#legenda6 {
+   color: red;
+   background-color: transparent;
+}
+#legenda1txt {
+   background-color: white;
+}
+#legenda2txt {
+   background-color: white;
+}
+#legenda3txt {
+   background-color: white;
+}
+#legenda4txt {
+   background-color: white;
+}
+#legenda5txt {
+   background-color: white;
+}
+#legenda6txt {
+   background-color: white;
+}
+#cbf {
+   background-color: transparent;
+}
+#significado {
+   width: 69%;
+   margin: 0 auto;
+   position: relative;
+   background-color: transparent;
+}
+#fonte {
+   margin: 0 0 30px;
+   font-weight: bold;
+}
+footer {
+   font-size: 10px;
+}
